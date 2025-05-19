@@ -22,6 +22,7 @@ The goal of this project is to scaffold a robust, scalable, and well-organized m
 ---
 
 ## Project Directory structure
+```
 alx-listing-app/
 ├── components/
 │ └── common/
