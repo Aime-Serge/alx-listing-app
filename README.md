@@ -19,6 +19,19 @@ The goal of this project is to scaffold a robust, scalable, and well-organized m
 - [Tailwind CSS](https://tailwindcss.com/)
 - [ESLint](https://eslint.org/)
 
+  ---
+
+## 🧰 Setup Instructions
+
+Follow these steps to run the project locally:
+
+1. **Clone the Repository**
+
+bash
+git clone https://github.com/YOUR_GITHUB_HANDLE/alx-listing-app.git
+cd alx-listing-app
+
+
 ---
 
 ## Project Directory structure
@@ -41,3 +54,15 @@ alx-listing-app/
 ├── tailwind.config.js # Tailwind configuration
 ├── README.md # Project documentation
 └── package.json # Project metadata and dependencies
+
+---
+
+## 🧰 Setup Instructions
+
+Follow these steps to run the project locally:
+
+1. **Clone the Repository**
+
+```bash
+git clone https://github.com/YOUR_GITHUB_HANDLE/alx-listing-app.git
+cd alx-listing-app
